@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on any open source projects or game projects that require more hands and eyes on them.
 - 📫 Connect with me here:
       [![my linkedin link](https://img.shields.io/badge/Linkedin-Cherve3-blue)](https://www.linkedin.com/Cherve3)
-      [![my itch.io link](https://img.shields.io/badge/itch.io-Cherve-red)](cherve.itch.io)
+      [![my itch.io link](https://img.shields.io/badge/itch.io-Cherve-red)](https://cherve.itch.io)
 
 <!---
 Cherve3/Cherve3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
