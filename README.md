@@ -5,9 +5,9 @@
 - 👀 I’m interested in all aspects of **game development**. I mainly focus on programming but as a hobby, any artistic
       outlet I try to enjoy often. My favorite is drawing which mainly was on paper but I have taken up digital drawing recently,
       texture design, 3D modeling, animations.
-- 🌱 I’m currently reviewing my C++ and Unreal Engine knowledge using Udemy. I will also be experimenting with Unreal Engine 5.
-      For my game developement classes I have worked on 2D and 3D game engines in C but I want to design one in C++ that can
-      utilize both 2D and 3D. I like to stick to open source resources like Vulkan and SDL 2. They are very powerful and I only
+- 🌱 I’m currently reviewing my **C++** and **Unreal Engine** knowledge using **Udemy**. I will also be experimenting with **Unreal Engine 5**.
+      For my game developement classes I have worked on 2D and 3D game engines in **C** but I want to design one in **C++** that can
+      utilize both 2D and 3D. I like to stick to open source resources like **Vulkan** and **SDL 2**. They are very powerful and I only
       scratched the surface of what can be accomplished with them.
 - 💞️ I’m looking to collaborate on any open source projects or game projects that require more hands and eyes on them.
 - 📫 Connect with me here:
