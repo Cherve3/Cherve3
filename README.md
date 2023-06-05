@@ -9,7 +9,7 @@
       For my game developement classes I have worked on 2D and 3D game engines in **C** but I want to design one in **C++** that can
       utilize both 2D and 3D. I like to stick to open source resources like **Vulkan** and **SDL 2**. They are very powerful and I only
       scratched the surface of what can be accomplished with them.
-- 💞️ I’m looking to collaborate on any open source projects or game projects that require more hands and eyes on them. Currently contributing to P1OM, People         1st Open Metaverse as a programmer in Unity.
+- 💞️ I’m looking to collaborate on any open source projects or game projects that require more hands and eyes on them. Currently contributing to [P1-OC], People 1st Open Collective as a programmer in Unity.
 - 📫 Connect with me here:
       [![my linkedin link](https://img.shields.io/badge/Linkedin-Cherve3-blue)](https://www.linkedin.com/in/Cherve3)
       [![my itch.io link](https://img.shields.io/badge/itch.io-Cherve-red)](https://cherve.itch.io)
