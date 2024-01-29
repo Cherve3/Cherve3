@@ -1,4 +1,4 @@
-- 👋 Hey, I’m **Michael Chervenak**, I am working with [P1] as game programmer and I also do contract work for two QA companies.
+- 👋 Hey, I’m **Michael Chervenak**, I am working with Bitrate Games as a gameplay programmer and I also do contract work for two QA companies.
     - I am a 2021 graduate from **Rutgers University-Newark**. I earned a bacholars degree *Magna Cum Laude* in **Computer Science** with a minor in **Mathematics**
         - also recognized by the **New Jersey Institute of Technology (NJIT)**.
       
