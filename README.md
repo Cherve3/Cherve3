@@ -1,4 +1,4 @@
-- 👋 Hey, I’m **Michael Chervenak**, I am working at Small Loan Studio as a programmer and previously at Bitrate Games as a gameplay programmer, , and I am a contractor for two QA companies for AAA games.
+- 👋 Hey, I’m **Michael Chervenak**, I am working at Beefcake Studio as a Systems Programmer and at Small Loan Studio as a programmer, previously at Bitrate Games as a Gameplay Programmer. I am also a contractor for two QA companies for AAA games.
     - I am a 2021 graduate from **Rutgers University-Newark**. I earned a bacholars degree *Magna Cum Laude* in **Computer Science** with a minor in **Mathematics**
         - also recognized by the **New Jersey Institute of Technology (NJIT)**.
       
